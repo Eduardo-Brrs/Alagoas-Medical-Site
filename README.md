@@ -31,12 +31,6 @@ This project was **based on a free template** from TemplateMo (Kind Heart Charit
 
 ---
 
-## Live Website
-
-https://alagoasmedical.com.br
-
----
-
 ## Project Goals
 
 - Learn how to work with real HTML website structure
