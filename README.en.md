@@ -2,11 +2,11 @@
 
 **English** · [Português](README.md)
 
-> This is the **first version (v1)** of the site, built from a template. It was later rebuilt from scratch in Next.js: see [alagoas-medical-v2](https://github.com/Eduardo-Brrs/alagoas-medical-v2), which is what runs today at [alagoasmedical.com.br](https://alagoasmedical.com.br).
+> This is the first version (v1) of the site, built from a template. It was later rebuilt from scratch in Next.js: see [alagoas-medical-v2](https://github.com/Eduardo-Brrs/alagoas-medical-v2), which is what runs today at [alagoasmedical.com.br](https://alagoasmedical.com.br).
 
-Institutional website developed for **Alagoas Medical**, a distributor of medical and hospital supplies located in Maceió, Brazil.
+Institutional website developed for Alagoas Medical, a distributor of medical and hospital supplies located in Maceió, Brazil.
 
-This project represents my **first real website published for an actual company**, deployed under a custom domain with integration of SEO tools and Google Business presence.
+This project represents my first real website published for an actual company, deployed under a custom domain with integration of SEO tools and Google Business presence.
 
 ---
 
@@ -24,7 +24,7 @@ This project represents my **first real website published for an actual company*
 
 ## About the Project
 
-This project was **based on a free template** from TemplateMo (Kind Heart Charity) and adapted with:
+This project was based on a free template from TemplateMo (Kind Heart Charity) and adapted with:
 
 - New visual and institutional content
 - Full mobile responsiveness adjustments
